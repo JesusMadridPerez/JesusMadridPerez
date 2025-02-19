@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+Soy estudiante de primero de DAW en el IEs Inca garcilazo montilla. He trabajado con java, html , css, javascript y sql
