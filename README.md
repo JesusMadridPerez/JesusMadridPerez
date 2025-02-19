@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-Soy estudiante de primero de DAW en el IEs Inca garcilazo montilla. He trabajado con java, html , css, javascript y sql
+Actualmente soy estudiante de primero de DAW en el IEs Inca garcilazo montilla. He trabajado con java, html , css, javascript y sql.He realizado proyectos en java pequeños en java como la creacion de una pequeña agenda de contactos y trabajos de creación de paginas web con html y scc, actualemente estoy aprendiendo a usar javascript.Tengo una solida base en la creación de tablas sql y consultas sobre las mismas.
+
+## Socials
+
+
+
+
