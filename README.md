@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About me
-Actualmente soy estudiante de primero de DAW en el IEs Inca garcilazo montilla. He trabajado con java, html , css, javascript y sql.He realizado proyectos en java pequeños en java como la creacion de una pequeña agenda de contactos y trabajos de creación de paginas web con html y scc, actualemente estoy aprendiendo a usar javascript.Tengo una solida base en la creación de tablas sql y consultas sobre las mismas.
+## ✨ About me
+Actualmente soy estudiante de primero de DAW en el IES Inca garcilazo montilla. He trabajado con java, HTML , CSS, javascript y sql.He realizado proyectos en java pequeños en java como la creacion de una pequeña agenda de contactos y trabajos de creación de paginas web con html y scc, actualemente estoy aprendiendo a usar javascript.Tengo una solida base en la creación de tablas sql y consultas sobre las mismas.
 
-### 🌐Socials
+### 🌐 Socials
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jmadridperez588@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-madrid-undefined-692a3030b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbE7uhy0RTlixeFTO7zMN%2Fg%3D%3D)
 
