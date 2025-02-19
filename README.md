@@ -21,7 +21,7 @@ Actualmente soy estudiante de primero de DAW en el IEs Inca garcilazo montilla. 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jmadridperez588@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-madrid-undefined-692a3030b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbE7uhy0RTlixeFTO7zMN%2Fg%3D%3D)
 
-### Tech Stack
+### 💻 Tech Stack
 <div id="lenguajes">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScrptt"/>
@@ -39,10 +39,28 @@ Actualmente soy estudiante de primero de DAW en el IEs Inca garcilazo montilla. 
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JesusMadridPerez&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JesusMadridPerez&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusMadridPerez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="">
+  <img src="https://github-readme-stats.vercel.app/api?username=JesusMadridPerez&show_icons=true&theme=radical" alt="GitHub Stats">
+</p><br/>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JesusMadridPerez&theme=dark&hide_border=false" alt ="Streak"/><br/>
+</p><br/>
+
+<p align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusMadridPerez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt = "Most Used Languages"/>
+</p><br/>
 
 
+## 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=JesusMadridPerez&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</p><br/>
+
+
+### 🔝 Top Contributed Repo
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=JesusMadridPerez&limit=5&theme=dark&combine_all_yearly_contributions=true" alt = "Top Contributed Repo"/>
+</p><br/>
 
 
