@@ -19,7 +19,7 @@ Actualmente soy estudiante de primero de DAW en el IEs Inca garcilazo montilla. 
 
 ### 🌐Socials
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jmadridperez588@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-madrid-undefined-692a3030b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbE7uhy0RTlixeFTO7zMN%2Fg%3D%3D)
 <div id="badges">
   <a href="»mailto:jmadridperez588@gmail.com">
     <a href="mailto:jmadridperez588@gmail.com"><a/>
