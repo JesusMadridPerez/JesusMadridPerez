@@ -20,22 +20,13 @@ Actualmente soy estudiante de primero de DAW en el IEs Inca garcilazo montilla. 
 ### 🌐Socials
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jmadridperez588@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-madrid-undefined-692a3030b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbE7uhy0RTlixeFTO7zMN%2Fg%3D%3D)
-<div id="badges">
-  <a href="»mailto:jmadridperez588@gmail.com">
-    <a href="mailto:jmadridperez588@gmail.com"><a/>
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  
-  
-</div>
 
 ### Tech Stack
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <div id="lenguajes">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScrptt"/>
-  <img src=""/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   
 </div>
 
