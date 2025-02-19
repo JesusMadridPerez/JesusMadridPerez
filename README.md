@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 Actualmente soy estudiante de primero de DAW en el IEs Inca garcilazo montilla. He trabajado con java, html , css, javascript y sql.He realizado proyectos en java pequeños en java como la creacion de una pequeña agenda de contactos y trabajos de creación de paginas web con html y scc, actualemente estoy aprendiendo a usar javascript.Tengo una solida base en la creación de tablas sql y consultas sobre las mismas.
 
 ### 🌐Socials
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:davidsanchezmoreno2103@ejemplo.com)
+
 <div id="badges">
   <a href="»mailto:jmadridperez588@gmail.com">
     <a href="mailto:jmadridperez588@gmail.com"><a/>
@@ -36,6 +38,8 @@ Actualmente soy estudiante de primero de DAW en el IEs Inca garcilazo montilla. 
   <img src=""/>
   
 </div>
+
+
 
 
 
