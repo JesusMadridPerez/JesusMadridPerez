@@ -31,9 +31,10 @@ Actualmente soy estudiante de primero de DAW en el IEs Inca garcilazo montilla. 
 
 ### Tech Stack
 <div id="lenguajes">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt Java/>
 
   
 </div>
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
