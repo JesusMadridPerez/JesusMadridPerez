@@ -39,15 +39,11 @@ Actualmente soy estudiante de primero de DAW en el IES Inca garcilazo montilla. 
 </div>
 
 # 📊 GitHub Stats:
-<p align="">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JesusMadridPerez&show_icons=true&theme=radical" alt="GitHub Stats">
 </p><br/>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JesusMadridPerez&theme=dark&hide_border=false" alt ="Streak"/><br/>
-</p><br/>
-
-<p align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusMadridPerez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt = "Most Used Languages"/>
 </p><br/>
 
